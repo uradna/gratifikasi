@@ -1,0 +1,19 @@
+change log 1.0
+Add upload dokumen
+
+view/admin/requestCreate.blade.php
+view/admin/requestUpdate.blade.php
+view/admin/requestDelete.blade.php
+
+view/superadmin/createUser.blade.php
+view/superadmin/deleteUser.blade.php
+view/superadmin/dataUpdate.blade.php
+view/superadmin/dataPernyataan.blade.php
+view/superadmin/dataPernyataanSkpd.blade.php
+
+app/http/controller/adminController.php
+app/http/controller/SuperAdminController.php
+
+app/http/models/Createuser.php
+app/http/models/Deleteuser.php
+app/http/models/Dataupdate.php
